@@ -71,10 +71,10 @@
             this.mainTabControl.Controls.Add(this.tabInject);
             this.mainTabControl.Controls.Add(this.tabCheatData);
             this.mainTabControl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.mainTabControl.Location = new System.Drawing.Point(0, 49);
+            this.mainTabControl.Location = new System.Drawing.Point(0, 52);
             this.mainTabControl.Name = "mainTabControl";
             this.mainTabControl.SelectedIndex = 0;
-            this.mainTabControl.Size = new System.Drawing.Size(1467, 983);
+            this.mainTabControl.Size = new System.Drawing.Size(1467, 980);
             this.mainTabControl.TabIndex = 0;
             // 
             // tabPathFinder
@@ -83,7 +83,7 @@
             this.tabPathFinder.Location = new System.Drawing.Point(10, 48);
             this.tabPathFinder.Name = "tabPathFinder";
             this.tabPathFinder.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPathFinder.Size = new System.Drawing.Size(1447, 925);
+            this.tabPathFinder.Size = new System.Drawing.Size(1447, 922);
             this.tabPathFinder.TabIndex = 1;
             this.tabPathFinder.Text = "Path Finder";
             this.tabPathFinder.UseVisualStyleBackColor = true;
@@ -93,7 +93,7 @@
             this.picTrack.Dock = System.Windows.Forms.DockStyle.Fill;
             this.picTrack.Location = new System.Drawing.Point(3, 3);
             this.picTrack.Name = "picTrack";
-            this.picTrack.Size = new System.Drawing.Size(1441, 919);
+            this.picTrack.Size = new System.Drawing.Size(1441, 916);
             this.picTrack.TabIndex = 0;
             this.picTrack.TabStop = false;
             this.picTrack.DoubleClick += new System.EventHandler(this.CopyImageToClibpboard);
@@ -194,7 +194,7 @@
             this.projectToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1467, 49);
+            this.menuStrip1.Size = new System.Drawing.Size(1467, 52);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -208,44 +208,44 @@
             this.toolStripMenuItem1,
             this.speedIncreaseToolToolStripMenuItem});
             this.projectToolStripMenuItem.Name = "projectToolStripMenuItem";
-            this.projectToolStripMenuItem.Size = new System.Drawing.Size(122, 45);
+            this.projectToolStripMenuItem.Size = new System.Drawing.Size(122, 48);
             this.projectToolStripMenuItem.Text = "&Project";
             // 
             // loadNumpyToolStripMenuItem
             // 
             this.loadNumpyToolStripMenuItem.Name = "loadNumpyToolStripMenuItem";
-            this.loadNumpyToolStripMenuItem.Size = new System.Drawing.Size(393, 46);
+            this.loadNumpyToolStripMenuItem.Size = new System.Drawing.Size(396, 46);
             this.loadNumpyToolStripMenuItem.Text = "&Load Numpy";
             this.loadNumpyToolStripMenuItem.Click += new System.EventHandler(this.loadNumpyToolStripMenuItem_Click);
             // 
             // loadPointsToolStripMenuItem
             // 
             this.loadPointsToolStripMenuItem.Name = "loadPointsToolStripMenuItem";
-            this.loadPointsToolStripMenuItem.Size = new System.Drawing.Size(393, 46);
+            this.loadPointsToolStripMenuItem.Size = new System.Drawing.Size(396, 46);
             this.loadPointsToolStripMenuItem.Text = "Load &Points";
             this.loadPointsToolStripMenuItem.Click += new System.EventHandler(this.loadPointsToolStripMenuItem_Click);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(390, 6);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(393, 6);
             // 
             // roboMakerLogsToolStripMenuItem
             // 
             this.roboMakerLogsToolStripMenuItem.Name = "roboMakerLogsToolStripMenuItem";
-            this.roboMakerLogsToolStripMenuItem.Size = new System.Drawing.Size(393, 46);
+            this.roboMakerLogsToolStripMenuItem.Size = new System.Drawing.Size(396, 46);
             this.roboMakerLogsToolStripMenuItem.Text = "&RoboMaker Logs";
             this.roboMakerLogsToolStripMenuItem.Click += new System.EventHandler(this.roboMakerLogsToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(390, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(393, 6);
             // 
             // speedIncreaseToolToolStripMenuItem
             // 
             this.speedIncreaseToolToolStripMenuItem.Name = "speedIncreaseToolToolStripMenuItem";
-            this.speedIncreaseToolToolStripMenuItem.Size = new System.Drawing.Size(393, 46);
+            this.speedIncreaseToolToolStripMenuItem.Size = new System.Drawing.Size(396, 46);
             this.speedIncreaseToolToolStripMenuItem.Text = "&Speed increase tool";
             this.speedIncreaseToolToolStripMenuItem.Click += new System.EventHandler(this.speedIncreaseToolToolStripMenuItem_Click);
             // 
