@@ -2,7 +2,6 @@
 using DeepRacer.Graphic;
 using DeepRacer.OptimalPath;
 using DeepRacer.Track;
-using ICSharpCode.SharpZipLib.GZip;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
