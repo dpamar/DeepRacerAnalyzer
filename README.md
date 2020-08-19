@@ -3,7 +3,7 @@ This is my own small helper tool to optimize AWS DeepRacer models
 
 ## Usage and features
 
-Here is the description of all the features. Also, note a double-click on any picture displayed in the tool will export it to the clipboard - a nice way to share your work on Slack :)
+Here is the description of all the features. Also, note that double-clicking on any picture displayed in the tool will export it to the clipboard - a nice way to share your work on Slack :)
 
 ### Load track
 First, start a project by loading a track, either from Numpy file or from waypoints, and some extra parameters 
